@@ -9,3 +9,7 @@
 5) git diff (diferenças)
 
 6) git revert
+
+7) git fetch 
+
+8) git push
