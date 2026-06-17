@@ -1,0 +1,11 @@
+1) Criar o repositório
+
+2) Add o arquivo na área de stage (git add) 
+
+3) Add o arquivo para o repositório (git commit)
+
+4) git log - acompanhar o histórico de commits no repositório
+
+5) git diff (diferenças)
+
+6) git revert
